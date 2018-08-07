@@ -1,3 +1,6 @@
+# チーム名
+旨い和魚
+
 # onigiri_war
 OneNightROBOCON競技「onigiri war」プロジェクト
 
