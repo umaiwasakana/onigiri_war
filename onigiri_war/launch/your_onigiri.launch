@@ -6,7 +6,9 @@
 
 
     <!-- sample program  -->
-    <node pkg="onigiri_war" type="wasakana.py" name="umaiwasakana" output="screen"/>
+
+    <node pkg="onigiri_war" type="kamei_d_mod.py" name="umaiwasakana" output="screen"/>
+    <node pkg="cvtest" type="cvtest_node" name="cvtest_node" output="screen"/>
 
 
 
